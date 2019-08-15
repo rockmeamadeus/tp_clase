@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\avaca\desktop\tp_clase\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1565898664 source:c:\users\avaca\desktop\tp_clase\ejercicio_2.c
+	<stdio.h>
+	<conio.h>
+
+1565899536 source:c:\users\avaca\desktop\tp_clase\ejercicio_3.c
+
+1565900048 source:c:\users\avaca\desktop\tp_clase\materiaprima.c
+
+1565900498 source:c:\users\avaca\desktop\tp_clase\ejercicio_1.c
+	<stdio.h>
+	<conio.h>
+
